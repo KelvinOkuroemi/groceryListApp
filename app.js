@@ -171,11 +171,11 @@ function setupItems(){
             <div class="btn-container">
               <!-- edit btn -->
               <button type="button" class="edit-btn">
-                <i class="fas fa-edit"></i> edit
+                <i class="fas fa-edit"></i>
               </button>
               <!-- delete btn -->
               <button type="button" class="delete-btn">
-                <i class="fas fa-trash"></i> del
+                <i class="fas fa-trash"></i>
               </button>
             </div>
           `;
