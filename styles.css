@@ -326,3 +326,13 @@ Grocery List
 .clear-btn:hover {
   color: var(--clr-red-dark);
 }
+/* Phone screen */
+
+@media screen and (max-width: 400px) {
+  input{
+    margin: 0 -2rem 0 2rem;
+  }
+  button.submit-btn{
+    margin: 0 2rem 0 0 ;
+  }
+}
